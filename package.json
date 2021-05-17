@@ -2,15 +2,16 @@
   "name": "file-server",
   "version": "1.0.0",
   "description": "Serving local files",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "VinGuler",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.1.1"
   }
 }

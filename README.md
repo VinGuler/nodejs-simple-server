@@ -1,18 +1,14 @@
 # Simple Node.js Serve
 
-Simple Node.js server, using Express.js and Socket.io.
+Simple Node.js server, using Express.js.
 
-I created this as a template server for whenever I need a quick server.
+I created this as a template server for whenever I need a quick server to serve files.
 
-Feel free to `pull` and use for your needs.
+Feel free to `clone` and use for your needs.
 
 ## Install
 
-### After pulling
-
 `npm install`
-
-### After installing
 
 `npm run start`
 

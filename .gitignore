@@ -1,3 +1,2 @@
 node_modules
-# My static folder contains PDFs...
-files/**.pdf
+static
